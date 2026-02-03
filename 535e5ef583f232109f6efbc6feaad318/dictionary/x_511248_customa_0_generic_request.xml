@@ -1,3 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="83beda3983f232109f6efbc6feaad311" extends="task" label="Generic Request" max_length="40" name="x_511248_customa_0_generic_request" type="collection"/>
+    <element db_object_id="83beda3983f232109f6efbc6feaad311" extends="task" label="Generic Request" max_length="40" name="x_511248_customa_0_generic_request" type="collection">
+        <element label="Mystring" max_length="40" name="mystring" type="string"/>
+    </element>
 </database>
